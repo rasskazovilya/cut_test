@@ -1,0 +1,2 @@
+This is a repo used in my master's thesis to train [CUT](https://github.com/taesungp/contrastive-unpaired-translation) for visible-to-infrared conversion.
+Code is pretty old and currently is not maintained.
